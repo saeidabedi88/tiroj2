@@ -21,7 +21,7 @@ Modern website for TirojNet, built with Next.js, React, and Tailwind CSS.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tirojnet.git
+git clone https://github.com/saeidabedi88/tiroj2.git
 ```
 
 2. Install dependencies:
@@ -78,4 +78,4 @@ NEXT_PUBLIC_SITE_URL=https://tirojnet.ca
 
 ## License
 
-All rights reserved - TirojNet 
+All rights reserved - TirojNet
